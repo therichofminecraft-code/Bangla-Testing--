@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Putush",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Putush",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "TNTSMP-KKSt.aternos.me",
+    "port": 59738,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to NetherexBD!",
         "I like to play Minecraft!"
       ]
     },
