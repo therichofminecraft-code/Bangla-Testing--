@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TNTSMP-KKSt.aternos.me",
-    "port": 59738,
+    "ip": "valocity.play.hosting",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
